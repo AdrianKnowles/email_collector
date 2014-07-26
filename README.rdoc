@@ -1,0 +1,6 @@
+# Email_Collector
+# by Adrian Knowles
+
+EMAIL COLLECTOR
+
+Static page for gathering emails before a launch.
